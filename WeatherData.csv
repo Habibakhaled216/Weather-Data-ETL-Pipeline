@@ -1,0 +1,11 @@
+,City,Country,Latitude,Longitude,Temperature,Pressure,Humidity,Wind Speed,Region,Temperature Category,Humidity Category
+0,Cairo,Egypt,30.0626,31.2497,28.569999999999993,1017,47,7.72,Lower,Hot,Comfortable
+1,Giza,Egypt,30.0081,31.2109,27.560000000000002,1017,48,4.35,Lower,Hot,Comfortable
+2,Alexandria,Egypt,31.2156,29.9553,27.319999999999993,1018,62,5.07,Lower,Hot,Comfortable
+3,Port Said,Egypt,31.2565,32.2841,28.139999999999986,1017,65,4.63,Lower,Hot,Comfortable
+4,Suez,Egypt,29.9737,32.5263,27.779999999999973,1017,60,3.99,Lower,Hot,Comfortable
+5,Ismailia,Egypt,30.6043,32.2723,27.5,1017,61,2.45,Lower,Hot,Comfortable
+6,Mansoura,Egypt,34.8616,-1.3394,23.939999999999998,1019,44,1.54,Lower,Hot,Comfortable
+7,Tanta,Egypt,30.7885,31.0019,26.980000000000018,1018,58,1.99,Lower,Hot,Comfortable
+8,Luxor,Egypt,25.6989,32.6421,34.18000000000001,1013,33,3.09,Upper,Hot,Comfortable
+9,Aswan,Egypt,24.0934,32.907,36.44,1012,24,5.27,Upper,Hot,Dry
